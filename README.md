@@ -25,5 +25,5 @@ Download the app from github and extract it then view the index.html in your bro
 * test first & second feed entries in feedlist and compare them if not same that mean we get a diff entries so load works fine and our feedreader works prefct ;)
 
 
-## view the project Online (demo):
-[https://egydes.github.io/feedReader-project/](https://egydes.github.io/feedReader-project/)
+## thanks:
+thanks for your interest to read my Documention ♥
